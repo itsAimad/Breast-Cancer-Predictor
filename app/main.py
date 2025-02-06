@@ -16,6 +16,7 @@ def clean_data():
 
 
 def add_sidebar():
+    st.sidebar.header("By: AIMAD BOUYA")
     st.sidebar.header("Cell Nuclei Measurements")
 
     data = clean_data()
@@ -310,8 +311,9 @@ def main():
     col1,col2 = st.columns([4,1])
 
     with col1:
-       radar = radar_chart(input_data)
-       st.plotly_chart(radar)
+       
+        radar = radar_chart(input_data)
+        st.plotly_chart(radar)
 
     with col2:
       add_predictions(input_data)
