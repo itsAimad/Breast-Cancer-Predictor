@@ -23,4 +23,8 @@ This is a **Streamlit-based web application** that predicts breast cancer using 
 ```bash
 git clone https://github.com/your-username/breast-cancer-predictor.git
 cd breast-cancer-predictor
+<<<<<<< HEAD
 python -m streamlit run app&
+=======
+python -m streamlit run app/main.py
+>>>>>>> 736fb5608c391515071454a2ceb2dc0ad38d6784
