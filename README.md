@@ -15,6 +15,8 @@ This is a **Streamlit-based web application** that predicts breast cancer using 
 - **Scikit-learn**: Used for **Logistic Regression** model.
 - **Pickle**: Saves and loads the trained model.
 - **Plotly Express**: Visualizes user inputs in an interactive graph.
+- **Pandas**: Process our dataset .
+- **Numpy**: Manipulations.
 
 ## Installation & Usage 📌
 ### 1️⃣ Clone the Repository
