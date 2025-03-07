@@ -14,7 +14,6 @@ def clean_data():
     # print(data.head())
     return data
 
-
 def add_sidebar():
     st.sidebar.header("By: AIMAD BOUYA")
     st.sidebar.header("Cell Nuclei Measurements")
