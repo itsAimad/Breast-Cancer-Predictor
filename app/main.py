@@ -162,7 +162,8 @@ def add_predictions(input_data):
                     <p>This app can assist medical professionals in making a diagnosis, but should not be used as a substitude for a professional diagnosis.</p>
                 </div>""",unsafe_allow_html=True)
     else:
-       
+
+        
         st.markdown(f"""<div class='container2'>
                     <h2> Cell Cluster predictions </h2>
                     <p>The result is : </p>
