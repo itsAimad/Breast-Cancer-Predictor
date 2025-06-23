@@ -1,6 +1,6 @@
 # Breast Cancer Prediction App 🩺🎗️
 
-This is a **Streamlit-based web application** that predicts breast cancer using **Logistic Regression**. The app allows users to adjust feature values using **sidebar sliders** and provides a real-time graphical representation of the selected inputs. It also displays a **probability score** and a **final prediction** indicating whether the tumor is **benign** or **malignant**.
+This is a **Streamlit-based web application** that predicts breast cancer using **Logistic Regression**. The app allows users to adjust feature values using **sidebar sliders** and provides a real-time graphical representation of the selected inputs. It also displays a **probability score** and a **final prediction** indicating whether the tumor is **benign** or **malignant**. 
 
 ## Features 🚀
 - **Interactive Sliders**: Users can adjust feature values dynamically.
